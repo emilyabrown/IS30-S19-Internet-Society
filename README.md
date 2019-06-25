@@ -1,5 +1,5 @@
 
-INFORMATION STUDIES 30 | INTERNET AND SOCIETY
+#INFORMATION STUDIES 30 | INTERNET AND SOCIETY#
 Department of Information Studies, UCLA
 Tuesdays and Thursdays 2pm - 3:50 pm GSE&IS 121
 INSTRUCTOR: Dustin O’Hara
