@@ -70,7 +70,7 @@ Be sure to use a standard citation style such as MLA, APA, or Chicago. Don’t g
 
 7. Active and respectful participation is required. This presupposes your timely attendance. We will often open each session by going around the room for each person to give his or her considered response to the readings; further discussion will operate on a volunteer basis. I reserve the right to call on anyone at any time. You can avoid being singled out by participating vociferously and frequently.
 
-## STUDENTS WITH DISABILITIES
+### STUDENTS WITH DISABILITIES
 
 Students with documented disabilities who wish to discuss academic accommodations should contact the Center for Accessible Education (www.cae.ucla.edu) and must notify the instructor at the start of the quarter so that appropriate accommodations can be arranged and coordinated with the CAE well in advance of course assignments and due dates.
 
