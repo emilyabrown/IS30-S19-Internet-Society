@@ -2,9 +2,13 @@
 # INFORMATION STUDIES 30 | INTERNET AND SOCIETY
 
 Department of Information Studies, UCLA
+
 Summer 2019, Tuesdays and Thursdays 2pm - 3:50 pm GSE&IS 121
+
 INSTRUCTOR: Dustin O’Hara
+
 EMAIL: dustin.ohara@gmail.com
+
 OFFICE HOURS: Tuesdays or Thursdays before class (by appointment)
 
 
