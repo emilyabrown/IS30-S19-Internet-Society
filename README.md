@@ -136,6 +136,8 @@ Norman, Donald A., and Pieter Jan Stappers. (2015) "DesignX: complex sociotechni
 
 The Field Guide to Human-Centered Design
 
+Hayles, K. (1999). “How We Became Posthuman: Virtual Bodies in Cybernetic, Literature, and Informatics” The University of Chicago Press. Read: prologue and chapter 1.
+
 ### THURSDAY (7/18) - User Profiling & Surveillance
 
 Watch Video: Forum Privatheit 2018: Shoshana Zuboff keynote speech on surveillance capitalism
