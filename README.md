@@ -98,7 +98,7 @@ How to Build a Low-tech Internet, Low-Tech Magazine
 
 ### Week 2:  TUESDAY (7/02) – Information design and the birth of the World Wide Web  
 
-Bush, V. (1948). “As we may think.: The Atlantic Monthly, 101-108. http://www.ps.uni-sb.de/~duchier/pub/vbush/vbush-all.shtml
+Bush, V. (1948). “As we may think.: The Atlantic Monthly, 101-108. 
 
 Nelson, T.H. (2003 [1974]). Excerpts from “Computer Lib/Dream Machines.” In N. Wardrip- Fruin and N. Montfort (Eds.), The New Media Reader, pp. 303-338.
 
@@ -107,7 +107,6 @@ Bates, M. (1989) “The Design of Browsing and Berrypicking Techniques for the O
 Berners-Lee, T. (1989) “Information management: A proposal.”
 
 Wardrip-Fruin, N. (2004) “What Hyer-text is”
-http://www.hyperfiction.org/texts/whatHypertextIs.pdf
 
 
 ### THURSDAY (7/04) – national holiday - NO class !!!
@@ -115,18 +114,18 @@ http://www.hyperfiction.org/texts/whatHypertextIs.pdf
 
 ### Week 3:  TUESDAY (7/09) – Knowledge & Authority
 
-Wells, H.G. (1938). World brain: The idea of a permanent world encyclopedia. From World Brain, pp. 83-88. New York: Doubleday. http://sherlock.berkeley.edu/wells/world_brain.html
+Wells, H.G. (1938). World brain: The idea of a permanent world encyclopedia. From World Brain, pp. 83-88. New York: Doubleday. 
 
 Lievrouw, L.A. (2011). Challenging the experts: Commons knowledge. In Alternative and Activist New Media, pp. 177‐213. Cambridge: Polity.
 
 
 ### THURSDAY (7/11) – Values and Bias in Design 
 
-Winner, L. Do Artifacts Have Politics? (Winter, 1980). Daedalus, Vol. 109, No. 1, Modern Technology: Problem or Opportunity? pp. 121-31. http://www.jstor.org/stable/20024652?seq=1 - page_scan_tab_contents
+Winner, L. Do Artifacts Have Politics? (Winter, 1980). Daedalus, Vol. 109, No. 1, Modern Technology: Problem or Opportunity? pp. 121-31. 
 
 Knobel, C. Bowker, G. (2011). “Computing Ethics Values in Design: Focusing on socio-technical design with values as a critical component in the design process. Communications of the ACM.
 
-David D. Clark, John Wroclawski, Karen R. Sollins, and Robert Braden. 2005. Tussle in cyberspace: defining tomorrow's internet. IEEE/ACM Trans. Netw. 13, 3 (June 2005), 462-475. http://dx.doi.org/10.1109/TNET.2005.850224
+David D. Clark, John Wroclawski, Karen R. Sollins, and Robert Braden. 2005. Tussle in cyberspace: defining tomorrow's internet. IEEE/ACM Trans. Netw. 13, 3 (June 2005), 462-475. 
 
 
 ### Week 4: TUESDAY (7/16) NO CLASS!!!! – Designers & “End-Users”
@@ -142,18 +141,19 @@ https://www.youtube.com/watch?v=DeaSxCN2uw8
 
 Bowker, G. C., & Star, S. L. (1999). The case of race classification and reclassification under apartheid. Sorting things out: Classification and its consequences, 195-225.
 
-Jennifer Valentino-Devries, Natasha Singer, Michael h. Keller and Aaron Krolik. 2018. Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret. New York Times. https://www.nytimes.com/interactive/2018/12/10/business/location- data-privacy-apps.html
+Jennifer Valentino-Devries, Natasha Singer, Michael h. Keller and Aaron Krolik. 2018. Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret. New York Times. 
 
-Greenwald, G. (June 9, 2013) “Edward Snowden, The Whistle-blower Behind the NSA Surveillance Revelations. The Guardian. https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower- surveillance
+Greenwald, G. (June 9, 2013) “Edward Snowden, The Whistle-blower Behind the NSA Surveillance Revelations. The Guardian. 
 
 
 ### Week 5: TUESDAY (7/23) – Labor & Equity
-Gray, M. (2016) Your Job is About to Get Taskified Los Angeles Times https://www.latimes.com/opinion/op-ed/la-oe-0110-digital-turk-work-20160110- story.html
+Gray, M. (2016) Your Job is About to Get Taskified Los Angeles Times 
 
-Watch video: Virginia Eubanks (2018) Automating Inequality https://datasociety.net/events/databite-no-106-automating-inequality-virginia- eubanks-in-conversation-with-alondra-nelson-and-julia-angwin/  
+Watch video: Virginia Eubanks (2018) Automating Inequality https://datasociety.net/events/databite-no-106-automating-inequality-virginia-eubanks-in-conversation-with-alondra-nelson-and-julia-angwin/
 
 ### THURSDAY (7/25) – E-Waste & Repair
 Jackson, S. J. (2014). 11 Rethinking Repair. Media technologies: Essays on communication, materiality, and society, 221-39.
+
 Watch video: SBS Dateline, E-waste https://www.youtube.com/watch?v=dd_ZttK3PuM
 
 
