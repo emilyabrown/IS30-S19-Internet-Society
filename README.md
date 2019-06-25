@@ -29,7 +29,8 @@ To prepare for class discussions you will write a 500 word personal reflection a
 
 ### 1) Hyper-text Self Portrait (15%) Due: Friday of Week 2 
 Using HTML, specifically hyperlinks, text, images, and any other html elements, such a video or audio, to create a hyper-text self-portrait. You are encouraged to interpret the notion of self-portraiture in a broad open-ended way. The assignment will include a short written statement (500 words) reflecting about your self-portrait and the reading thus far. The statement will count as your personal reflection for week 2. 
-2) Internet Archive Excavation & Analysis (20%) 1500-2000 words, Due Thursday Week 3
+
+### 2) Internet Archive Excavation & Analysis (20%) 1500-2000 words, Due Thursday Week 3
 Working on your own or in a group of two or three, select a website or set of websites and conduct a detailed analysis of their design over time. How did the site’s design, information architecture and interface features evolve over time? Describe the societal and technical circumstances that informed the changes in their design.
 
 ### 3) Proposal for a Speculative Future (25%) 2000-3000 words/presentation, Due Week 6
