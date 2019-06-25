@@ -14,12 +14,16 @@ OFFICE HOURS: Tuesdays or Thursdays before class (by appointment)
 
 ## COURSE DESCRIPTION AND OBJECTIVES
 This course is an introduction to the social and technical developments that have led to today's Internet and related information and communication technologies (ICTs), and the consequences of these technologies for society and culture. The course will cover the history and design of the Internet, internet activism and governance, the contradictory interests of the networked political economy, and the ethical implications of future internet research and emerging technologies. The course will be one part seminar and one part speculative creative laboratory. Students will critically and creatively engage with a combination of technical and societal issues. 
+
 The course satisfies the Society and Culture-Social Analysis GE requirement for the College of Letters & Science, and is open to all majors. This course also counts towards the Digital Humanities minor. Upon satisfactory completion of this course, students should be able to:
+
 Design and develop simple web sites/apps using HTML, CSS, and JavaScript (no prior experience necessary).
- Summarize the main points of historical development of Internet related technologies.
+
+Summarize the main points of historical development of Internet related technologies.
+
 Summarize major societal issues associated with today’s Internet, including socioeconomic impact, privacy and surveillance, security, intellectual property, information resources and infrastructures.
-Discuss and evaluate current perspectives or points of view on these issues;  
-Stay informed about Internet-related issues through a critical and reflective survey of news  coverage and other general-interest media sources.  
+
+Discuss and evaluate current perspectives or points of view on these issues;Stay informed about Internet-related issues through a critical and reflective survey of newscoverage and other general-interest media sources.
 
 ## COURSE REQUIREMENTS AND GRADING  
 Students will be evaluated on the basis of their participation and performance in class and on other required assignments; the percentage of the final course grade for each activity is indicated in parentheses: Class participation (40%) comprised of contributions to the discussions in the classroom as well as posts your student weblog. Your participation grade includes weekly discussion posts that are short reflections on the course readings. These posts are due the night before our Thursday classes. Your participation grade hinges on thoughtful engagement with the course material. Three creative projects (60%) responding to a prompt , each assignment will include a written component that will engage with course readings. You are welcome to incorporate peer-reviewed and reputable, fact-checked journalistic articles to strengthen your argument. Below are short descriptions of the three main projects, a more detailed document for each assignment will be shared in the coming weeks.
