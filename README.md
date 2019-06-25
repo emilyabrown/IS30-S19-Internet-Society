@@ -130,7 +130,7 @@ Knobel, C. Bowker, G. (2011). “Computing Ethics Values in Design: Focusing on 
 David D. Clark, John Wroclawski, Karen R. Sollins, and Robert Braden. 2005. Tussle in cyberspace: defining tomorrow's internet. IEEE/ACM Trans. Netw. 13, 3 (June 2005), 462-475. 
 
 
-### Week 4: TUESDAY (7/16) NO CLASS!!!! – Designers & “End-Users”
+### Week 4: TUESDAY (7/16) NO CLASS!!!! – Designers & Users
 
 Norman, Donald A., and Pieter Jan Stappers. (2015) "DesignX: complex sociotechnical systems." She Ji: The Journal of Design, Economics, and Innovation 1.2 83-106.
 
@@ -161,7 +161,7 @@ Jackson, S. J. (2014). 11 Rethinking Repair. Media technologies: Essays on commu
 Watch video: SBS Dateline, E-waste https://www.youtube.com/watch?v=dd_ZttK3PuM
 
 
-### Week 6: Last Week – no readings - Present Final Projects  
+### Week 6: Last Week – Present Final Projects  
 TUESDAY (7/30) – Work on Final Projects
 THURSDAY (8/01) – Present Final Projects
 
