@@ -17,7 +17,7 @@ This course is an introduction to the social and technical developments that hav
 
 The course satisfies the Society and Culture-Social Analysis GE requirement for the College of Letters & Science, and is open to all majors. This course also counts towards the Digital Humanities minor. Upon satisfactory completion of this course, students should be able to:
 
-Design and develop simple web sites/apps using HTML, CSS, and JavaScript (no prior experience necessary).
+basic web development and design using HTML, CSS, and JavaScript (no prior experience necessary).
 
 Summarize the main points of historical development of Internet related technologies.
 
