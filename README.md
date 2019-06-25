@@ -118,9 +118,7 @@ http://www.hyperfiction.org/texts/whatHypertextIs.pdf
 Wells, H.G. (1938). World brain: The idea of a permanent world encyclopedia. From World Brain, pp. 83-88. New York: Doubleday. http://sherlock.berkeley.edu/wells/world_brain.html
 
 Lievrouw, L.A. (2011). Challenging the experts: Commons knowledge. In Alternative and Activist New Media, pp. 177‐213. Cambridge: Polity.
-Coleman, G. (2012) Our weirdness is free: The logic of Anonymous—online army, agent of chaos, and seeker of justice. Triple 
 
-Canopy. http://canopycanopycanopy.com/15/our_weirdness_is_free#
 
 ### THURSDAY (7/11) – Values and Bias in Design 
 
