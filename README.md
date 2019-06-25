@@ -1,10 +1,16 @@
 
 # INFORMATION STUDIES 30 | INTERNET AND SOCIETY
+
 Department of Information Studies, UCLA
+
 Summer 2019, Tuesdays and Thursdays 2pm - 3:50 pm GSE&IS 121
+
 INSTRUCTOR: Dustin O’Hara
+
 EMAIL: dustin.ohara@gmail.com
+
 OFFICE HOURS: Tuesdays or Thursdays before class (by appointment)
+
 
 ## COURSE DESCRIPTION AND OBJECTIVES
 This course is an introduction to the social and technical developments that have led to today's Internet and related information and communication technologies (ICTs), and the consequences of these technologies for society and culture. The course will cover the history and design of the Internet, internet activism and governance, the contradictory interests of the networked political economy, and the ethical implications of future internet research and emerging technologies. The course will be one part seminar and one part speculative creative laboratory. Students will critically and creatively engage with a combination of technical and societal issues. 
