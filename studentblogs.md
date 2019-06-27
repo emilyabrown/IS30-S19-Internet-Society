@@ -1,5 +1,7 @@
 # Student Blogs 
 
+(in no particular order) 
+
 https://jacklandherr.github.io/JLandherr-Info/
 
 https://marihinkle.github.io/mari-hinkle/
