@@ -31,15 +31,21 @@ Students will be evaluated on the basis of their participation and performance i
 ### 0) Weekly Weblog (40%) 
 To prepare for class discussions you will write a 500 word personal reflection about the readings. You should demonstrate that you understand the central arguments, highlight specific quotes from the texts, interpret their significance and relationship to your own life experiences. Publish your personal reflection before our Thursday class, unless instructed otherwise. Student weblogs and project sites will be published using Github, unless otherwise approved. 
 
-Once you have created a Github account, you can find a short step-by-step tutorial for creating a Github page here: https://guides.github.com/features/pages/
+Once you have created a Github account, here are a few pages that will help introduce you to Github and walk you through the process of creating a new repository and webpage. 
 
-### 1) Hyper-text Self Portrait (15%) Due: Friday of Week 2 
+https://guides.github.com/activities/hello-world/
+
+https://guides.github.com/features/pages/
+
+### 1) Hyper-text Self Portrait (25%) Due: Friday of Week 3 
 Using HTML, specifically hyperlinks, text, images, and any other html elements, such a video or audio, to create a hyper-text self-portrait. You are encouraged to interpret the notion of self-portraiture in a broad open-ended way. The assignment will include a short written statement (500 words) reflecting about your self-portrait and the reading thus far. The statement will count as your personal reflection for week 2. 
 
-### 2) Internet Archive Excavation & Analysis (20%) 1500-2000 words, Due Thursday Week 3
+### Choose either assignment 2 or 3.   
+
+### 2) Internet Archive Excavation & Analysis (35%) 1500-2000 words/presentation Due Week 6
 Working on your own or in a group of two or three, select a website or set of websites and conduct a detailed analysis of the site’s design and how it changed over time. Describe the societal and technical circumstances that informed the changes in the site’s design, architecture, and use. Create a website that visually and illustrates your findings and analysis, including a bibliography and links to appropriate references. Using your website or slides, you (and your group) will present your findings and analysis to the class.  
 
-### 3) Proposal for a Speculative Future (25%) 2000-3000 words/presentation, Due Week 6
+### 3) Proposal for a Speculative Future (35%) 2000-2500 words/presentation, Due Week 6
 Working in a small group (2-3 people), you will create a rigorously researched design proposal. Identify one topic of interest we’ve talked about in class thus far, it could be big data, privacy, self-driving cars, fake news. Once you have chosen a topic area, you will work with your group to create a speculative design proposal. The design proposal will center around an illustrated concept design/demo and written paper that describes the proposal in relative to the topic area. The written paper will describe the practices, agents and technologies of the topic area, detail contemporary affordances and limitations. Cite specific examples and course readings to create an argument to support your design concept. Be sure to identify how these speculative future developments might be ethically problematic or advantageous.
 
 You will present your final project in class during week 6. 
