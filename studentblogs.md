@@ -30,6 +30,16 @@ https://cyankoff.github.io/CYank-Info-Std/
 
 https://fhhussaini.github.io/INF-STD-30-Blog/
 
+https://dchen236.github.io/IS30_Weekly_Blog_Post/
+
+https://aauthement.github.io/Blog-Week-1/
+
+https://sidenyl.github.io/Information-Studies-30/
+
+https://sydaen.github.io/Blog/
+
+https://elvti.github.io/
+
 
 
 
