@@ -1,4 +1,4 @@
-## Student Blogs 
+# Student Blogs 
 
 https://jacklandherr.github.io/JLandherr-Info/
 
