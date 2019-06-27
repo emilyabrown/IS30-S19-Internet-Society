@@ -37,7 +37,7 @@ https://guides.github.com/activities/hello-world/
 
 https://guides.github.com/features/pages/
 
-### 1) Hyper-text Self Portrait (25%) Due: Friday of Week 3 
+### 1) Hyper-text Self Portrait (25%) Due Week 3 
 Using HTML, specifically hyperlinks, text, images, and any other html elements, such a video or audio, to create a hyper-text self-portrait. You are encouraged to interpret the notion of self-portraiture in a broad open-ended way. The assignment will include a short written statement (500 words) reflecting about your self-portrait and the reading thus far. The statement will count as your personal reflection for week 2. 
 
 ### Choose either assignment 2 or 3.   
