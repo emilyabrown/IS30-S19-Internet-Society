@@ -35,8 +35,6 @@ Once you have created a Github account, here are a few pages that will help intr
 
 https://guides.github.com/activities/hello-world/
 
-https://pages.github.com/
-
 https://guides.github.com/features/pages/
 
 ### 1) Hyper-text Self Portrait (25%) Due: Friday of Week 3 
