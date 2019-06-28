@@ -42,7 +42,8 @@ https://sydaen.github.io/Blog/
 
 https://elvti.github.io/
 
+https://joshua8harris.github.io/Josh-Harris-Info.Studies-Blog-SA19/
 
-
+https://github.com/skaufusi/info-studies
 
 
