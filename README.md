@@ -29,15 +29,19 @@ Discuss and evaluate current perspectives or points of view on these issues;Stay
 Students will be evaluated on the basis of their participation and performance in class and on other required assignments; the percentage of the final course grade for each activity is indicated in parentheses: Class participation (40%) comprised of contributions to the discussions in the classroom as well as posts your student weblog. Your participation grade includes weekly discussion posts that are short reflections on the course readings. These posts are due the night before our Thursday classes. Your participation grade hinges on thoughtful engagement with the course material. Three creative projects (60%) responding to a prompt , each assignment will include a written component that will engage with course readings. You are welcome to incorporate peer-reviewed and reputable, fact-checked journalistic articles to strengthen your argument. Below are short descriptions of the three main projects, a more detailed document for each assignment will be shared in the coming weeks.
 
 ### 0) Weekly Weblog (40%) 
+
+[List of the student blog](https://github.com/DustinOHara/IS30-S19-Internet-Society/blob/master/studentblogs.md)
+
 To prepare for class discussions you will write a 500 word personal reflection about the readings. You should demonstrate that you understand the central arguments, highlight specific quotes from the texts, interpret their significance and relationship to your own life experiences. Publish your personal reflection before our Thursday class, unless instructed otherwise. Student weblogs and project sites will be published using Github, unless otherwise approved. 
 
 Once you have created a Github account, here are a few pages that will help introduce you to Github and walk you through the process of creating a new repository and webpage. 
 
-https://guides.github.com/activities/hello-world/
+[Link: Getting started with Github](https://guides.github.com/activities/hello-world/)
 
-https://guides.github.com/features/pages/
+[Link: introduction to Github pages](https://guides.github.com/features/pages/)
 
-[List of the student blog](https://github.com/DustinOHara/IS30-S19-Internet-Society/blob/master/studentblogs.md)
+[Link: Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
 
 ### 1) Hyper-text Self Portrait (25%) Due Week 3 
 Using HTML, specifically hyperlinks, text, images, and any other html elements, such a video or audio, to create a hyper-text self-portrait. You are encouraged to interpret the notion of self-portraiture in a broad open-ended way. The assignment will include a short written statement (500 words) reflecting about your self-portrait and the reading thus far. The statement will count as your personal reflection for week 2. 
