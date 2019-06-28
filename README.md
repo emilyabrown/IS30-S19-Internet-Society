@@ -30,7 +30,7 @@ Students will be evaluated on the basis of their participation and performance i
 
 ### 0) Weekly Weblog (40%) 
 
-[List of the student blog](https://github.com/DustinOHara/IS30-S19-Internet-Society/blob/master/studentblogs.md)
+[List of the student blogs](https://github.com/DustinOHara/IS30-S19-Internet-Society/blob/master/studentblogs.md)
 
 To prepare for class discussions you will write a 500 word personal reflection about the readings. You should demonstrate that you understand the central arguments, highlight specific quotes from the texts, interpret their significance and relationship to your own life experiences. Publish your personal reflection before our Thursday class, unless instructed otherwise. Student weblogs and project sites will be published using Github, unless otherwise approved. 
 
