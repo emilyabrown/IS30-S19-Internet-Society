@@ -44,11 +44,18 @@ Once you have created a Github account, here are a few pages that will help intr
 
 
 ### 1) Hyper-text Self Portrait (25%) Due Week 3 
-Using HTML, specifically hyperlinks, text, images, and any other html elements, such a video or audio, to create a hyper-text self-portrait. You are encouraged to interpret the notion of self-portraiture in a broad open-ended way. The assignment will include a short written statement (500 words) reflecting about your self-portrait and the reading thus far. The statement will count as your personal reflection for week 2. 
+Using HTML, specifically hyperlinks, text, images, and any other html elements, such a video or audio, create a hyper-text self-portrait. You are encouraged to interpret the notion of self-portraiture in a broad open-ended way. The assignment will include a short written statement (500 words) reflecting on your self-portrait and the readings thus far. The written statement will count as your personal reflection for week 3. 
 
-W3School HTML/CSS/JS references: https://www.w3schools.com/
+Before week 2 you will need to download a text editor, here are a few options: 
+https://atom.io/
+http://brackets.io/
+https://www.sublimetext.com/
+Before week 2 download a text editor and  create some experimental sketches of your self-portrait. These sketches can be hand drawn or written in HTML. The point is to generate some ideas. 
 
-### Choose either assignment 2 or 3.   
+If you decide to use HTML for your initial sketches, you can use the W3School website as a resource for HTML, CSS, and JS examples and references. https://www.w3schools.com/
+
+
+## Final Project: choose either assignment, 2 or 3.   
 
 ### 2) Internet Archive Excavation & Analysis (35%) 1500-2000 words/presentation Due Week 6
 Working on your own or in a group of two or three, select a website or set of websites and conduct a detailed analysis of the site’s design and how it changed over time. Describe the societal and technical circumstances that informed the changes in the site’s design, architecture, and use. Create a website that visually and illustrates your findings and analysis, including a bibliography and links to appropriate references. Using your website or slides, you (and your group) will present your findings and analysis to the class.  
