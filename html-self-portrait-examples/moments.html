@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>moments in time</title>
+        <meta name="description" content="moments in time">
+        
+        <style>
+        
+         body { overflow: hidden;} 
+        
+         video {position:absolute; left: -5%; top: -5%; width: 110%; height: auto; z-index: 99; } 
+        
+         .redBox {position: relative;  width: 200px; height: 200px; background-color: red; z-index: 200;}
+            
+        </style>
+        
+    </head>
+    <body>
+        
+         <!-- a red box that is above the video layer 
+         <div onclick="HomeMovies()"  class = "redBox"></div>       
+          -->
+    
+          <video onclick="HomeMovies()" id = "myMoment" loop autoplay>
+          <source src="videos/003.MOV" type="video/mp4">
+          </video>
+        
+     
+    <script> 
+     
+    // Name your function something that is useful, or something that communicates your sense of style or humor      
+    function HomeMovies() {
+        
+    // Create a variable x, and then make it equal to a random number between 1 and 9 
+    var x = Math.floor((Math.random() * 9) + 1);
+  
+    //Now use that random value of x to change the name of the source file in your video.  
+    document.getElementById('myMoment').src='videos/00'+ x +'.MOV'  
+    
+
+    } 
+        
+     
+   //change the video on its own every 10 seconds
+    setInterval(function() {
+    HomeMovies();
+    }, 10000);    
+        
+   </script>   
+        
+
+        
+        
+       
+    </body>
+</html>
